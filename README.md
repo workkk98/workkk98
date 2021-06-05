@@ -16,4 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning FP, Vue3, Vite...
-- 📫 How to reach me: [email](gentlebob1998@icloud.com)
+- 📫 How to reach me: gentlebob1998@icloud.com
+
+
+### My blog
+
+[前端之旅](xiaofanblog.top)
