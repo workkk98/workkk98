@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ### My blog
 
-[前端之旅](http://xiaofanblog.top)
+[前端之旅](https://workkk98.github.io/blog/)
