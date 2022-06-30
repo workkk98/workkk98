@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning React, C lang, babel...
 - 📫 How to reach me: gentlebob1998@icloud.com
+- 🔭 I’m currently working on bytedance's qianchuan
 
 
 ### My blog
