@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning CPP, Garfish, Webpack...
+- 🌱 I’m currently learning go, graphics...
 - 📫 How to reach me: gentlebob1998@icloud.com
-- 🔭 I’m currently working on bytedance's qianchuan
 
 
 ### My blog
